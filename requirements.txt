@@ -1,0 +1,7 @@
+pandas==1.2.3
+opencv_python==4.2.0.34
+yagmail==0.14.256
+pyfiglet==0.8.post1
+numpy==1.18.4
+Pillow==8.2.0
+opencv-contrib-python==4.2.0.34
