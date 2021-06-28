@@ -1,0 +1,23 @@
+[
+    {
+        "Id":1,
+        "student_name":"Jayateerth",
+        "Date":"2021-06-14",
+        "Time":"15-14-14",
+        "BodyTemperature":37.98
+    },
+    {
+        "Id":2,
+        "student_name":"Shreeraj",
+        "Date":"2021-06-14",
+        "Time":"15-15-14",
+        "BodyTemperature":37.9
+    },
+    {
+        "Id":3,
+        "student_name":"Tejas",
+        "Date":"2021-06-14",
+        "Time":"15-16-14",
+        "BodyTemperature":36.9
+    }
+]

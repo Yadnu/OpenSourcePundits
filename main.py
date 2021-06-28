@@ -8,7 +8,7 @@ from pyfiglet import figlet_format
 ## Title Bar
 def title():
     os.system('cls')
-    figlet = figlet_format('Technotronics', font='basic')
+    figlet = figlet_format('JD Technologies', font='digital')
     print(figlet)
     print(40*"/" + 40*'\\')
     print("***** Face Recognition Based Attendance System And Temperature Monitoring *****")
