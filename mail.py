@@ -12,7 +12,7 @@ sub = f"Attendance Report for {date_ed}"
 body = f"Attendance for {date_ed} Can be Downloaded"
 
 # Gmail Info
-yag = yagmail.SMTP("ljay88944@gmail.com", "DELTADRAGON")
+yag = yagmail.SMTP("ljay88944@gmail.com", "")
 receiver = "jaydambal50@gmail.com"
 # Mail sending
 print(f"Sending Mail for date -> {date_ed}, as this is the new File Available")
