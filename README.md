@@ -1,4 +1,4 @@
-# **TechExpo**
+#**OPENSOURCEPUNDITS**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## **This Repo is For TechExpo  Event**
+
 
 ## This project uses Facial Detection and Recognition to record the Attedance of the Clients/Students and Save in a *CSV* File afterwards this File can be Mailed through **SMTP Server** using **yagmail** library of Python
 
