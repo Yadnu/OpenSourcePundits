@@ -1,19 +1,3 @@
-# **OPENSOURCEPUNDITS**
-
----
-
-## Team Members ->
-
-### 1. Jayateerth Shyam Dambal - DKTE
-
-### 2. Tejas Shital Chavan - DKTE
-
-### 3. Shreeraj Yashwantrao Ghorpade - DKTE
-
-### 4. Rupesh Suresh Pawar - DKTE
-
----
-
 
 
 ## This project uses Facial Detection and Recognition to record the Attedance of the Clients/Students and Save in a *CSV* File afterwards this File can be Mailed through **SMTP Server** using **yagmail** library of Python
